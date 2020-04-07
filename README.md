@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Upinside" src="./views/assets/images/upinside-treinamentos.jpg" width="412px" />
+    <img alt="Upinside" src="./views/assets/images/upinside-treinamentos.jpg" width="200px" />
 </h1>
 
 <h3 align="center">
