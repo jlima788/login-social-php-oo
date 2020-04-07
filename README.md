@@ -23,9 +23,6 @@
 
 Construir uma página de login social utilizando boas práticas de PHP OO.
 
-<div align="center">
-
-
 ---
 
 ## Pagina Home
